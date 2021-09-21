@@ -404,7 +404,7 @@ strong{
 }
 .send-message-button{
 	width: 210px;
-	height: 19px;
+	height: 20px;
 	color: white;
 	background-color: rgb(236,82,63);
 	border: none;
@@ -485,7 +485,7 @@ button{
 }
 /* aside-down */
 .aside-down{
-	margin-top: 313px;
+	margin-top: 340px;
 	margin-left: 10px;
 }
 .aside-down h3{
@@ -494,7 +494,7 @@ button{
 	margin-bottom: 10px;
 }
 .aside-icon{
-	margin-top: 12px;
+	margin-top: 20px;
 	/* margin-left: 10px; */
 }
 .aside-icon a{
