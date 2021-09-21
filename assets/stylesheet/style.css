@@ -61,8 +61,10 @@ body{
 	margin: 0 auto;
 	padding: 0 32px;
 }
+
 /* header */
 header{
+	position: relative;
 	position: fixed;
 	display: flex;
 	justify-content: space-between;
@@ -94,8 +96,9 @@ nav a{
 	text-transform: uppercase;
 }
 .home a{
+	border-top: 1px solid rgb(236,82,63);
+	padding-top: 25px;
 	color: rgb(236,82,63);
-	
 	
 }
 /* main */
@@ -495,14 +498,13 @@ button{
 }
 .aside-icon{
 	margin-top: 20px;
-	/* margin-left: 10px; */
 }
 .aside-icon a{
-	padding: 10px 10px;
-	border: 1px solid white;
+	padding: 9px 13px;
+	border: 2px solid white;
 	border-radius: 50%;
 	color: white;
-	/* margin-left: 10px; */
+	margin-left: 10px;
 }
 /* heading*/
 .aside-heading{
